@@ -1,0 +1,21 @@
+{
+ "name": "型態清單",
+ "short_name": "型態清單",
+ "start_url": "patterns.html",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#f3f0e8",
+ "theme_color": "#141a26",
+ "icons": [
+  {
+   "src": "icons/w_192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/w_512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}

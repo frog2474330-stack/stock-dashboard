@@ -1,0 +1,21 @@
+{
+ "name": "大盤多空",
+ "short_name": "大盤多空",
+ "start_url": "market.html",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#f3f0e8",
+ "theme_color": "#141a26",
+ "icons": [
+  {
+   "src": "icons/market_192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/market_512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
